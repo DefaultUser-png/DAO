@@ -1,0 +1,21 @@
+.copyable-label, .copyable-label:focused {
+    -fx-background-color: transparent;
+    -fx-background-insets: 0px;
+}
+
+.pre{
+	-fx-background-color: #dedcdc;
+	-fx-font-family: monospace;
+	-fx-font-size: 11px;
+	-fx-alignment: center;
+	
+	-fx-border-color: #aba9a9;
+	-fx-border-radius: 10px;
+	-fx-background-radius: 10px;
+	-fx-padding: 1px 6px 1px 6px;
+}
+
+/* Trust me it's a real property and it doesn't work the other way */
+.tooltip {
+    -fx-show-delay: 50ms;
+}
