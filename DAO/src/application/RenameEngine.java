@@ -277,7 +277,7 @@ public class RenameEngine {
 
 			List<String> row = Arrays.asList(
 					nameOG,
-					mode_check(nameOG, extension, i)
+					mode_check(files[i].getName(), extension, i)
 					);
 			table.add(row);
 		}
@@ -314,7 +314,7 @@ public class RenameEngine {
 			if(logging == log.NONE) continue;
 			String message = "";
 			if(renamed) {
-				message = "<" + nameOG + "> has been renamed to <" + nameFinal + ">";
+				message = "<" + nameOG + extension + "> has been renamed to <" + nameFinal + ">";
 			} else {
 				message = "An error accured renaming <" + nameOG + ">";
 			}
