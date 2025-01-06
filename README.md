@@ -7,7 +7,7 @@
 [Demo images](https://drive.google.com/file/d/1XCcSyWzwJSYPPDeLWwUb410eHQTy5XIV/view?usp=drivesdk)\
 [Plan B](https://drive.google.com/file/d/1XDRulsv_hAyP3AXSy6yUhQdfqyjIWGGA/view?usp=drivesdk)
 
-DAO (Greek: δώστε άλλο όνομα, "give another name") is an utility to quickly rename multiple files at once. The program comes with a varierty of QOL features, such as
+DAO (Greek: δώστε άλλο όνομα, "give another name") is an utility to quickly rename multiple files at once. The program comes with a varierty of QOL features, such as:
 * ⌨️​ Text keys that can add custom indexing and timestamps into the file names;
 * ​✏️​ An option to change name and extension separataly;
 * ​✔️ Previews for all selected files;
