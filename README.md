@@ -3,9 +3,7 @@
 > [!WARNING]
 > Requiers Java 21 to run!
 
-> *(Please ignore this repository, I'm just a burnout student setting this up in the middle of the night, because we were informed way too late that our projects must be hosted here)*\
-[Demo images](https://drive.google.com/file/d/1XCcSyWzwJSYPPDeLWwUb410eHQTy5XIV/view?usp=drivesdk)\
-[Plan B](https://drive.google.com/file/d/1XDRulsv_hAyP3AXSy6yUhQdfqyjIWGGA/view?usp=drivesdk)
+> *(Please ignore this repository, I'm just a burnout student setting this up in the middle of the night, because we were informed way too late that our projects must be hosted here)*
 
 DAO (Greek: δώστε άλλο όνομα, "give another name") is an utility to quickly rename multiple files at once. The program comes with a varierty of QOL features, such as:
 * ⌨️​ Text keys that can add custom indexing and timestamps into the file names;
